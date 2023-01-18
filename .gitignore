@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+local.settings.gradle.kts
+
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+http-client.private.env.json
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# direnv
+.envrc
